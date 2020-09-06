@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eliteMaths/static/css/main.5f361e03.chunk.css",
+    "main.js": "/eliteMaths/static/js/main.9f1593bf.chunk.js",
+    "main.js.map": "/eliteMaths/static/js/main.9f1593bf.chunk.js.map",
+    "runtime-main.js": "/eliteMaths/static/js/runtime-main.798b8f15.js",
+    "runtime-main.js.map": "/eliteMaths/static/js/runtime-main.798b8f15.js.map",
+    "static/js/2.caf789be.chunk.js": "/eliteMaths/static/js/2.caf789be.chunk.js",
+    "static/js/2.caf789be.chunk.js.map": "/eliteMaths/static/js/2.caf789be.chunk.js.map",
+    "index.html": "/eliteMaths/index.html",
+    "precache-manifest.fe492a7bac927246db3e845b68b10246.js": "/eliteMaths/precache-manifest.fe492a7bac927246db3e845b68b10246.js",
+    "service-worker.js": "/eliteMaths/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/eliteMaths/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.caf789be.chunk.js.LICENSE.txt": "/eliteMaths/static/js/2.caf789be.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/eliteMaths/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.798b8f15.js",
+    "static/js/2.caf789be.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9f1593bf.chunk.js"
+  ]
+}
