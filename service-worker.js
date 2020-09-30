@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eliteMaths/precache-manifest.6a08778904933bb75a834349ba150e5f.js"
+  "/eliteMaths/precache-manifest.db7973aa521de0c2fbbc1e435ab2396f.js"
 );
 
 self.addEventListener('message', (event) => {
