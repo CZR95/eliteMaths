@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/eliteMaths/static/css/main.fa17babc.chunk.css",
-    "main.js": "/eliteMaths/static/js/main.ee181009.chunk.js",
-    "main.js.map": "/eliteMaths/static/js/main.ee181009.chunk.js.map",
+    "main.js": "/eliteMaths/static/js/main.67948a4e.chunk.js",
+    "main.js.map": "/eliteMaths/static/js/main.67948a4e.chunk.js.map",
     "runtime-main.js": "/eliteMaths/static/js/runtime-main.798b8f15.js",
     "runtime-main.js.map": "/eliteMaths/static/js/runtime-main.798b8f15.js.map",
     "static/css/2.829c9cb5.chunk.css": "/eliteMaths/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.1ab26cb1.chunk.js": "/eliteMaths/static/js/2.1ab26cb1.chunk.js",
-    "static/js/2.1ab26cb1.chunk.js.map": "/eliteMaths/static/js/2.1ab26cb1.chunk.js.map",
+    "static/js/2.3d6acf73.chunk.js": "/eliteMaths/static/js/2.3d6acf73.chunk.js",
+    "static/js/2.3d6acf73.chunk.js.map": "/eliteMaths/static/js/2.3d6acf73.chunk.js.map",
     "index.html": "/eliteMaths/index.html",
-    "precache-manifest.db7973aa521de0c2fbbc1e435ab2396f.js": "/eliteMaths/precache-manifest.db7973aa521de0c2fbbc1e435ab2396f.js",
+    "precache-manifest.93c2404f5b5dd7fc000dac188a887b69.js": "/eliteMaths/precache-manifest.93c2404f5b5dd7fc000dac188a887b69.js",
     "service-worker.js": "/eliteMaths/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/eliteMaths/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.fa17babc.chunk.css.map": "/eliteMaths/static/css/main.fa17babc.chunk.css.map",
-    "static/js/2.1ab26cb1.chunk.js.LICENSE.txt": "/eliteMaths/static/js/2.1ab26cb1.chunk.js.LICENSE.txt",
+    "static/js/2.3d6acf73.chunk.js.LICENSE.txt": "/eliteMaths/static/js/2.3d6acf73.chunk.js.LICENSE.txt",
     "static/media/chatbot_image_1.jpg": "/eliteMaths/static/media/chatbot_image_1.c7640a04.jpg",
     "static/media/eliteMaths_logo.png": "/eliteMaths/static/media/eliteMaths_logo.24d3f7e1.png",
     "static/media/logo.svg": "/eliteMaths/static/media/logo.5d5d9eef.svg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.798b8f15.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.1ab26cb1.chunk.js",
+    "static/js/2.3d6acf73.chunk.js",
     "static/css/main.fa17babc.chunk.css",
-    "static/js/main.ee181009.chunk.js"
+    "static/js/main.67948a4e.chunk.js"
   ]
 }
